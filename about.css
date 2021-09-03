@@ -1,0 +1,115 @@
+*{margin:0;padding:0;}
+section {
+    /* padding: 60px 0px; */
+    background-color: #f7f7f7;
+}
+.Top_hader {
+
+width: 100%;b
+ackground: black;
+overflow: hidden;
+border-bottom: 1px solid black;
+  margin: 0px;
+}
+
+.lo_go {
+    width: 250px;
+    position: absolute;
+    margin: 10px 10px;
+    padding: 20px 10px;
+    margin-left: 10px;
+}
+
+ul#primary-menu li {
+    float: left;
+    margin: auto;
+    text-transform: uppercase;
+    margin: 20px 20px;
+    padding: 20px 10px;
+    list-style: none;
+    color: white;
+}
+
+ul#primary-menu li a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+ul#primary-menu {
+    float: right;
+    overflow: hidden;
+    margin-right: -250px;
+    margin-left: 250px;
+    display: block;
+}
+
+ul#primary-menu {}
+
+a img {
+    width: 10%;
+    margin-bottom: -29px;
+    margin-top: -12px;
+}
+
+.nav-bar {
+    overflow: hidden;
+    background-color: black;
+}
+menu#main-menu {
+    position: relative;
+}
+
+.lo_go img {
+    margin-left: 59px;
+}
+.container {
+    width: 1140px;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+}
+
+.box-er {
+    margin-top: 120px;
+    width: 500px;
+}
+h1.title {
+    font-size: 42px;
+    font-weight: 500;
+    color: #191919;
+    line-height: 48px;
+    margin-bottom: 14px;
+}
+p.size-text1 {
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0px;
+}
+
+p.size-text2 {
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: 0px;
+}
+.signature {
+    width: 50%;
+}
+
+.signature img {
+    width: 63%;
+    margin: 14px 0px;
+}
+.box-er2 {
+    width: 500px;
+    display: flex;
+    float: left;
+    overflow: hidden;
+    position: absolute;
+    margin-left: 565px;
+    top: 231px;
+}
+
+.box-er2 img {
+    height: 342px;
+}
